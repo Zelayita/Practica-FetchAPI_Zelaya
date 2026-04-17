@@ -11,6 +11,9 @@ function Nav() {
                 <Link to="/dragon" className="hover:underline">
                 DragonBall
                 </Link>
+                <Link to="/rick" className="hover:underline">
+                Rick And Morty
+                </Link>
             </div>
         </nav>
     );
